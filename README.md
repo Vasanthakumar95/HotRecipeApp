@@ -10,5 +10,5 @@ Simple recipe app
 - Retrofit 
 
 # Driver UI
-<img src = "sc_newsapp/splash_screen.png" width ="300" /> <img src = "screenshots/homescreen.png" width ="300" /> 
-<img src = "sc_newsapp/recepidetailscreen.png" width ="300" /> <img src = "sc_newsapp/recepisourcescreen.png" width ="300" /> 
+<img src = "screenshots/splash_screen.png" width ="300" /> <img src = "screenshots/homescreen.png" width ="300" /> 
+<img src = "screenshots/recepidetailscreen.png" width ="300" /> <img src = "screenshots/recepisourcescreen.png" width ="300" /> 
