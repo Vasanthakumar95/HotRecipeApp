@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="welcome">Welcome to Hot Recipe</string>
+    <string name="select_category">Please select your preferred Category for recipe listing.</string>
+    <string name="instructions">Preheat the oven to 150C/300F/Gas 2.Toss the beef and flour together in a bowl with some salt and black pepper.Heat a large casserole until hot, add half of the rapeseed oil and enough of the beef to just cover the bottom of the casserole.Fry until browned on each side, then remove and set aside. Repeat with the remaining oil and beef.Return the beef to the pan, add the wine and cook until the volume of</string>
+</resources>
