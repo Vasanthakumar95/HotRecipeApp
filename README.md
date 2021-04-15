@@ -11,6 +11,6 @@ Simple recipe app
 - Retrofit 
 - themealdb API
 
-# Driver UI
+# UI Screenshot
 <img src = "screenshots/splash_screen.png" width ="300" /> <img src = "screenshots/homescreen.png" width ="300" /> 
 <img src = "screenshots/recepidetailscreen.png" width ="300" /> <img src = "screenshots/recepisourcescreen.png" width ="300" /> 
